@@ -1,0 +1,11 @@
+<svg id="Id--Streamline-Carbon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <desc>
+    ID Streamline Icon: https://streamlinehq.com
+  </desc>
+  <defs></defs>
+  <title>Q-research--iD</title>
+  <path d="M10 9h2v2h-2Z" fill="#1C2833" stroke-width="1"></path>
+  <path d="M18 23h-4V9h4a4 4 0 0 1 4 4v6a4 4 0 0 1 -4 4Zm-2 -2h2a2 2 0 0 0 2 -2v-6a2 2 0 0 0 -2 -2h-2Z" fill="#1C2833" stroke-width="1"></path>
+  <path d="M10 13h2v10h-2Z" fill="#1C2833" stroke-width="1"></path>
+  <path id="_Transparent_Rectangle_" d="M0 0h32v32H0Z" fill="none" stroke-width="1"></path>
+</svg>
